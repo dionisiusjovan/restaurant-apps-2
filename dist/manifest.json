@@ -1,0 +1,22 @@
+{
+    "name": "RestoBuddy: Your Food Journey Buddy!",
+    "short_name": "RestoBuddy",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#C36A2D",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
